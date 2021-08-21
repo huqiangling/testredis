@@ -8,5 +8,6 @@ public class Test {
     public static void getdd(){
         System.out.println("我是 Test");
         System.out.println("测试");
+        System.out.println("测试");
     }
 }
