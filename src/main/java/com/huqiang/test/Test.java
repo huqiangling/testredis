@@ -10,5 +10,6 @@ public class Test {
         System.out.println("测试");
         System.out.println("测试");
         System.out.println("最终测试");
+        System.out.println("最终测试");
     }
 }
